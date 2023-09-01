@@ -1,0 +1,2 @@
+npm init
+npm i bcrypt cookie-parser cors date-fns dotenv express  express-async-handler express-rate-limit jsonwebtoken mongoose mongoose-sequence uuid 
